@@ -15,6 +15,7 @@ brew 'gnupg2'
 brew 'grep'
 brew 'httpie'
 brew 'hub'
+brew 'kubectl'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
@@ -44,6 +45,7 @@ brew 'nginx'
 brew 'node'
 brew 'redis'
 brew 'yarn'
+
 
 # Apps
 cask '1password'
