@@ -11,7 +11,7 @@ export ZSH=$HOME/.oh-my-zsh
 autoload -Uz compinit && compinit
 
 # Minimal - Theme Settings
-#export MNML_INSERT_CHAR="$"
+export MNML_INSERT_CHAR="λ"
 export MNML_PROMPT=(mnml_git mnml_keymap)
 export MNML_RPROMPT=('mnml_cwd 20')
 
