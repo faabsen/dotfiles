@@ -1,6 +1,6 @@
 # faabsen's Dotfiles
 
-This repository serves as my way to help me setup and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this readme. Feel free to explore, learn and copy parts for your own dotfiles. Most parts are adapted from Driens Vints. Enjoy! :smile:
+This repository serves as my way to help me setup and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this `README.md`. Feel free to explore, learn and copy parts for your own dotfiles. Most parts are adapted from Driens Vints. Enjoy! :smile:
 
 ## A Fresh macOS Setup
 
